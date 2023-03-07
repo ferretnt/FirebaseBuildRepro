@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "515127145403",
+    "project_id": "fir-buildrepro",
+    "storage_bucket": "fir-buildrepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515127145403:ios:1d5feedd3a6321a70a8a9e",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FirebaseBuildRepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515127145403-rp8an4ghhujftbc0kclbpcc15aosflun.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Vl5pSBgW6aoZqHElWFfYAhtNoOgF8TA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
